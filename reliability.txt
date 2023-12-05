@@ -1,0 +1,29 @@
+"metric"	"type_short"	"type"	"desc_inf"	"cor_ranks"
+"1"	"Likelihood ratio test (B)"	"3f_d"	"Frequency difference"	2	0.813932357650282
+"2"	"Chi-squared test (B)"	"3f_d"	"Frequency difference"	2	0.815382751539017
+"3"	"BIC (B)"	"3f_d"	"Frequency difference"	2	0.813932357650282
+"4"	"Signed DKL (B)"	"3f_d"	"Frequency difference"	1	0.723501389382432
+"5"	"TD-based LR test (T)"	"4d_d"	"Dispersion difference"	2	0.808352917767708
+"6"	"Rate ACAD (B)"	"1f"	"Frequency"	1	0.882807234207081
+"7"	"Rate difference (B)"	"3f_d"	"Frequency difference"	1	0.903800317712243
+"8"	"Rate ratio (B)"	"3f_d"	"Frequency difference"	1	0.895927802705153
+"9"	"TD ratio (T)"	"4d_d"	"Dispersion difference"	1	0.902728197308595
+"10"	"Wilcoxon rank sum test, PS (T)"	"3f_d"	"Frequency difference"	2	0.926907032705226
+"11"	"T-test (T)"	"3f_d"	"Frequency difference"	2	0.810896384863194
+"12"	"Rate ACAD (T)"	"1f"	"Frequency"	1	0.814418326511471
+"13"	"Rate ratio (T)"	"3f_d"	"Frequency difference"	1	0.779862930728306
+"14"	"Rate difference (T)"	"3f_d"	"Frequency difference"	1	0.779788044765777
+"15"	"DP"	"2d"	"Dispersion"	1	0.879407450325303
+"16"	"DA"	"2d"	"Dispersion"	1	0.766766244288386
+"17"	"D"	"2d"	"Dispersion"	1	0.525336232881613
+"18"	"Sadj"	"2d"	"Dispersion"	1	0.873878063117171
+"19"	"D2"	"2d"	"Dispersion"	1	0.707643759308317
+"20"	"TD"	"2d"	"Dispersion"	1	0.918097240297359
+"21"	"DKL"	"2d"	"Dispersion"	1	0.832549346611
+"22"	"DP diff"	"4d_d"	"Dispersion difference"	1	0.851256706545624
+"23"	"DA diff"	"4d_d"	"Dispersion difference"	1	0.686056289649288
+"24"	"D diff"	"4d_d"	"Dispersion difference"	1	0.480982011418364
+"25"	"Sadj diff"	"4d_d"	"Dispersion difference"	1	0.847029045906084
+"26"	"D2 diff"	"4d_d"	"Dispersion difference"	1	0.64123751809406
+"27"	"TD diff"	"4d_d"	"Dispersion difference"	1	0.924738599504461
+"28"	"DKL diff"	"4d_d"	"Dispersion difference"	1	0.758049517136129
